@@ -1,0 +1,6 @@
+bike_rental_model.pkl
+__pycache__/
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
